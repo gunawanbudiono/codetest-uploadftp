@@ -1,0 +1,286 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201907 will be lost/reset.
+# Last config file used to build this data file was /home/gunawanb/tmp/awstats/awstats.demo.gunawanbudiono.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2679                
+POS_VISITOR 6859                
+POS_DAY 7326                
+POS_DOMAIN 3251                
+POS_LOGIN 3545                
+POS_ROBOT 3700                
+POS_WORMS 3943                
+POS_EMAILSENDER 4074                
+POS_EMAILRECEIVER 4217                
+POS_SESSION 7538                
+POS_SIDER 7685                
+POS_FILETYPES 4352                
+POS_DOWNLOADS 4455                
+POS_OS 4503                
+POS_BROWSER 4617                
+POS_SCREENSIZE 4811                
+POS_UNKNOWNREFERER 4885                
+POS_UNKNOWNREFERERBROWSER 5232                
+POS_ORIGIN 5386                
+POS_SEREFERRALS 5518                
+POS_PAGEREFS 5662                
+POS_SEARCHWORDS 5810                
+POS_KEYWORDS 5962                
+POS_MISC 2343                
+POS_ERRORS 6021                
+POS_CLUSTER 3401                
+POS_SIDER_404 6145                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190805005803 1 0 10815702309555
+FirstTime 0
+LastTime 20190728004121
+LastUpdate 20190805191647 1 0 0 0 0
+TotalVisits 10                  
+TotalUnique 10                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 150708 2 3 151280
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 2 2 150074 12 15 52200
+4 0 0 0 0 0 0
+5 2 2 150026 14 16 1044
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 2 3 522
+11 0 0 0 4 4 23402
+12 2 2 150188 4 5 151244
+13 0 0 0 0 0 0
+14 4 4 300936 4 5 173998
+15 0 0 0 2 2 496
+16 0 0 0 0 0 0
+17 0 0 0 2 3 522
+18 10 10 534 2 3 522
+19 2 2 151158 0 0 0
+20 0 0 0 2 2 149960
+21 4 4 304880 12 12 167324
+22 0 0 0 0 0 0
+23 0 0 0 16 16 72934
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 14 14 757354
+id 6 6 186
+cn 2 2 150188
+ca 2 2 149994
+gb 2 2 150074
+fr 2 2 150708
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+AhrefsBot/ 8 208 20190730171055 8
+bot[\s_+:,\.\;\/\\-] 2 149960 20190717201249 0
+unknown 1 26 20190724033809 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 10 534 0 0
+html 18 1357970 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+win10 10 10
+Unknown 14 14
+macosx11 2 2
+linux 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+Unknown 8 8
+chrome63.0.3239.132 4 4
+mozilla 6 6
+firefox47.0 2 2
+chrome53.0.2785.116 2 2
+firefox50.0 2 2
+chrome74.0.3729.131 2 2
+firefox58.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+python-requests/2.22.0 20190720142041
+Go-http-client/1.1 20190726182924
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190709055913
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20190726182940
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20190726182924
+python-requests/2.22.0 20190720142041
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 28 28
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 28 6880
+503 18 0
+404 26 335556
+406 6 452818
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/blog/wp-includes/wlwmanifest.xml 2 -
+/language/en-GB/en-GB.ini 2 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/wp-admin 4 -
+/blog/robots.txt 2 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+//wp/wp-includes/wlwmanifest.xml 2 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+//site/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/wlwmanifest.xml 2 -
+//cms/wp-includes/wlwmanifest.xml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+45.64.99.177 6 6 186 20190726182924
+159.69.94.145 4 4 304880 20190727211606
+66.133.109.36 4 4 348 20190726182940
+13.230.115.49 2 2 150942 20190722141051
+206.206.108.149 2 2 151158 20190726190027
+142.93.72.215 2 2 149994 20190720142041
+60.191.38.77 2 2 150188 20190722120709
+68.183.145.109 2 2 150026 20190709055913
+195.154.61.206 2 2 150708 20190728004121
+5.62.41.171 2 2 150074 20190724033811
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20190709 2 2 150026 1
+20190720 2 2 149994 1
+20190722 4 4 301130 2
+20190724 2 2 150074 1
+20190726 12 12 151692 3
+20190727 4 4 304880 1
+20190728 2 2 150708 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 18 1357970 8 8
+/.well-known/acme-challenge/plugin-test-1564140560323308297 2 62 0 0
+/.well-known/acme-challenge/opVYvYeI9D8jdzQTHWqld-ca5RegRvytVUkFTMoHHEo 2 174 0 1
+/.well-known/acme-challenge/plugin-test-1564140556941625157 2 62 1 0
+/.well-known/acme-challenge/ou8mSCzxfnwIwOxT1Dze_O0C5g5EH09_9EVrACqZd8c 2 174 1 0
+/.well-known/acme-challenge/plugin-test-1564140564529844389 2 62 0 1
+END_SIDER

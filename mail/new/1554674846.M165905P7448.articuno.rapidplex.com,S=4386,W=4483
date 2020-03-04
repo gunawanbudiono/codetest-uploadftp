@@ -1,0 +1,97 @@
+Return-Path: <no-reply@fullexposure.com>
+Delivered-To: gunawanb@articuno.rapidplex.com
+Received: from articuno.rapidplex.com
+	by articuno.rapidplex.com with LMTP id YF0gCZ50qlwYHQAAmojBvg
+	for <gunawanb@articuno.rapidplex.com>; Mon, 08 Apr 2019 05:07:26 +0700
+Return-path: <no-reply@fullexposure.com>
+Envelope-to: info@gunawanbudiono.com
+Delivery-date: Mon, 08 Apr 2019 05:07:26 +0700
+Received: from [62.4.57.65] (port=59521 helo=ah189.133.43.221.fullexposure.com)
+	by articuno.rapidplex.com with esmtp (Exim 4.91)
+	(envelope-from <no-reply@fullexposure.com>)
+	id 1hDFwd-0002GY-Id
+	for info@gunawanbudiono.com; Mon, 08 Apr 2019 05:07:26 +0700
+From: "Live in Sweden" <no-reply@fullexposure.com>
+To: "info" <info@gunawanbudiono.com>
+Content-Type: multipart/alternative; boundary="QKyyLCcderriyaqEhoBItrP33TEfVl=_K0"
+MIME-Version: 1.0
+Date: Mon, 8 Apr 2019 00:07:29 +0200
+X-Spam-Status: Yes, score=11.9
+X-Spam-Score: 119
+X-Spam-Bar: +++++++++++
+X-Spam-Report: Spam detection software, running on the system "articuno.rapidplex.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Immigrate to Sweden and receive Swedish (European) Residence
+    Permit within 2-4 months. Low cost of procedures and very fast legal process.
+    Details: www.residence-permits.info Immigrate to Sweden and receive Swedish
+    (European) Residence Permit within 2-4 months. Low cost of procedures and
+    very fast legal process. 
+ 
+ Content analysis details:   (11.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: residence-permits.info]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: residence-permits.info]
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+                  [Blocked - see <https://www.spamcop.net/bl.shtml?62.4.57.65>]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of .info|.us|.me|.me.uk|.biz
+                             domains in spam/malware
+  0.8 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Immigrate to Sweden (European Union)
+
+This is a multi-part message in MIME format
+
+--QKyyLCcderriyaqEhoBItrP33TEfVl=_K0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Immigrate to Sweden and receive Swedish (European) Residence Permit wi=
+thin 2-4 months.
+Low cost of procedures and very fast legal process.
+Details:
+www.residence-permits.info
+
+
+--QKyyLCcderriyaqEhoBItrP33TEfVl=_K0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<HTML lang=3Den><HEAD><TITLE></TITLE>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DConte=
+nt-Type>
+<META name=3Dviewport content=3Dinitial-scale=3D1.0></HEAD>
+<BODY style=3D"FONT-FAMILY: Helvetica, Arial, sans-serif; PADDING-BOTT=
+OM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIG=
+HT: 0px" leftMargin=3D0 topMargin=3D0 marginheight=3D"0" marginwidth=3D=
+"0">
+<P>Immigrate to Sweden and receive Swedish (European) Residence Permit=
+ within 2-4 months.<BR>Low cost of procedures and very fast legal proc=
+ess.</P>
+<P>Details:<BR><A href=3D"http://www.residence-permits.info">www.resid=
+ence-permits.info</A></P></BODY></HTML>
+
+
+--QKyyLCcderriyaqEhoBItrP33TEfVl=_K0--
+
